@@ -1,3 +1,5 @@
+Forked from oblitum. Commented out code swapping Esc to Caps Lock.
+
 # CAPS2ESC <sub>a linux port</sub>
 
 _Transforming the most useless key **ever** in the most useful one._
